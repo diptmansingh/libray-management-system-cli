@@ -25,7 +25,7 @@ To compile and run this program, you will need a C compiler installed on your sy
    ```
 3. Compile the C file using GCC:
    ```bash
-   gcc main.c -o library_manager
+   gcc library.c -o library_manager
    ```
 4. Run the executable:
    * **On Linux/macOS:** `./library_manager`
